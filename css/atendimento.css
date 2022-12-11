@@ -1,0 +1,23 @@
+.table-atendimento {
+  border: 1px solid #606060;
+  border-spacing: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.table-atendimento th {
+  border: 1px solid #606060;
+  padding: 10px;
+  text-align: center;
+  vertical-align: middle;
+  color: white;
+  background-color: #606060;
+  vertical-align: top;
+  font-weight: bold;
+}
+
+.table-atendimento tr {
+  border: 1px solid #606060;
+  padding: 10px;
+  text-align: center;
+}

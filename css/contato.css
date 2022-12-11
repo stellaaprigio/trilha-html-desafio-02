@@ -1,0 +1,27 @@
+form {
+  width: 500px;
+  margin: auto;
+  flex-flow: column;
+}
+input, textarea {
+  font-family: sans-serif;
+  font-weight: normal;
+  font-size: 13pt;
+  background-color: rgba(255,255,255,.5);
+}
+input:hover, textarea:hover {
+  background-color:#dddddd ;
+}
+
+.content {
+  display: flex;
+}
+
+.contato {
+  padding: 10px;
+}
+
+.formulario {
+  padding: 10px;
+}
+
